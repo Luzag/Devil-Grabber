@@ -36,7 +36,7 @@ class Builder:
 		self.__main__()
 
 	def __main__(self):
-		self.root.title("Blank Grabber Builder")
+		self.root.title("Devil Grabber Builder")
 		self.root.geometry("800x365")
 		self.root.resizable(False, False)
 		self.root['background'] = "black"
@@ -44,7 +44,7 @@ class Builder:
 		self.root.bind("<Leave>", lambda event: self.WindowOpacity(event, 0))
 		self.root.bind("<Button-1>", lambda event: self.removeFocus(event))
 
-		ttk.Label(text= "Blank Grabber", font= ("Franklin Gothic", 18, "bold"), foreground= "white", background= "black").place(relx= 0.5, anchor= "n")
+		ttk.Label(text= "Devil Grabber", font= ("Franklin Gothic", 18, "bold"), foreground= "white", background= "black").place(relx= 0.5, anchor= "n")
 		webhookEntry = ttk.Entry(self.root, foreground= "grey", background= "#303841")
 		webhookEntry.insert(0, "Enter Webhook Here")
 		webhookEntry.bind("<ButtonRelease-1>", lambda event: self.EntryHint(event, "Enter Webhook Here"))
