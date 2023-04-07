@@ -1,14 +1,8 @@
 <h1 align="center">
-   Blank Grabber
+   Devil Grabber
 </h1>
 <p align= "center">
-   <kbd>
-   <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
-   </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FBlank-c%2FBlank-Grabber">
+  Tokken Grabber
    <br>
    <img src="https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/license/Blank-c/Blank-Grabber">
@@ -25,10 +19,9 @@
 - [Requirements](#requirements)
 - [How to Build?](#how-to-build)
 - [To-Do/Enhancements](#to-doenhancements)	<!-- - [Crypter](#crypter)-->
-- [Contact me](#contact-me)
+
 
 ## Download
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blank-Grabber/archive/refs/heads/main.zip)
 
 **Disclaimer:** This tool is for "educational" purpose only, and I am not responsible for any damage caused by it in any way!
 
@@ -88,12 +81,11 @@
 
 1. Download and install [Python 3](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
-3. [Download Blank Grabber](#download).
+3. [Download Devil-Grabber](#download).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
-5. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
+5. Navigate to the **Devil Grabber** folder and double click *Builder.bat* file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
 
-[![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/87fui4)
 
 ## To-Do/Enhancements
 - [x] Grab saved WIFI passwords.
@@ -105,7 +97,3 @@
 - [x] Importable Cookies.
 - [x] Block AV Related Sites.
 
-## Contact me
-To remove this tool from your system, follow [this](https://github.com/Blank-c/Blank-Grabber/issues/142). 
-
-If you need help regarding something else then you can contact me via [Discord](https://discordlookup.com/user/904682505104396329).
