@@ -1,21 +1,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="![InkedPng](https://user-images.githubusercontent.com/127673188/232338732-23371f95-f2f2-4adc-a8c4-e71c72c0f748.png)
-">
-   </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FBlank-c%2FBlank-Grabber">
-   <br>
-   <img src="https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/license/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/actions/workflow/status/Blank-c/Blank-Grabber/codeql.yml?branch=main">
-   <br>
-   <img src="https://img.shields.io/github/issues/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
-</p>
+   <img  src="https://user-images.githubusercontent.com/127673188/232338732-23371f95-f2f2-4adc-a8c4-e71c72c0f748.png">
 
 <h1 align="center">
    Devil Grabber👾
