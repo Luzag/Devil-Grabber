@@ -2,7 +2,6 @@
    Devil Grabber👾
 </h1>
 <p align= "center">
-
   Roblox cookie / Tokken Grabber ⭐
    <br>
    <img src="https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber">
