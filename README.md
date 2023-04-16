@@ -1,4 +1,5 @@
-(https://user-images.githubusercontent.com/127673188/232338644-10af14db-f6d2-4459-958f-02af43ceeb95.png)
+![InkedPng](https://user-images.githubusercontent.com/127673188/232338665-bff93edd-6450-498f-9385-367ebf714d9e.png)
+
 <h1 align="center">
    Devil Grabber👾
 </h1>
