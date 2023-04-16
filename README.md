@@ -1,3 +1,4 @@
+(https://user-images.githubusercontent.com/127673188/232338644-10af14db-f6d2-4459-958f-02af43ceeb95.png)
 <h1 align="center">
    Devil Grabber👾
 </h1>
@@ -13,7 +14,8 @@
    <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
 </p>
 
-## Table of Contents
+## Table of Contents![InkedPng]
+
 - [Download](#download)
 - [Features](#features)
 - [Togglable options](#togglable-options)
